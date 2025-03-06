@@ -1,0 +1,13 @@
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\bin\Release\net8.0\ASC.Ultilites.deps.json
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\bin\Release\net8.0\ASC.Ultilites.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\bin\Release\net8.0\ASC.Ultilites.pdb
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.csproj.AssemblyReference.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.AssemblyInfoInputs.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.AssemblyInfo.cs
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.csproj.CoreCompileInputs.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.sourcelink.json
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\refint\ASC.Ultilites.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ASC.Ultilites.pdb
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Ultilites\obj\Release\net8.0\ref\ASC.Ultilites.dll

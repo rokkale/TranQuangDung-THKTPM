@@ -1,0 +1,13 @@
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\bin\Release\net8.0\ASC.Model.deps.json
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\bin\Release\net8.0\ASC.Model.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\bin\Release\net8.0\ASC.Model.pdb
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.csproj.AssemblyReference.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.AssemblyInfoInputs.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.AssemblyInfo.cs
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.csproj.CoreCompileInputs.cache
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.sourcelink.json
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\refint\ASC.Model.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ASC.Model.pdb
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Model\obj\Release\net8.0\ref\ASC.Model.dll
