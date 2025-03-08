@@ -165,3 +165,8 @@ D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release
 D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\ASC.Model.pdb
 D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\ASC.Ultilites.pdb
 D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\obj\Release\net8.0\ASC.Web.sourcelink.json
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\System.Security.Cryptography.Xml.dll
+D:\Học Tập\Kiến Trúc\source\ASC.Solutuon\ASC.Solutuon\ASC.Web\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
