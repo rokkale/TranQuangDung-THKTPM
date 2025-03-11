@@ -7,16 +7,17 @@ using System.Threading.Tasks;
 
 namespace ASC.Model.Models
 {
-    public class MasterDataValue : BaseEnity, IAuditTracker
+    public class MasterDataValue : BaseEntity, IAudetTracker
     {
         public MasterDataValue() { }
-        public MasterDataValue(string masterDataPartiticonKey, string value)
+
+        public MasterDataValue(string masterDataPartitionKey, string value)
         {
-            this.PartitionKey = masterDataPartiticonKey;
+            this.PatititonKey = masterDataPartitionKey;
             this.RowKey = Guid.NewGuid().ToString();
         }
-        public bool IsActive { get; set; }
-        public string Name {  get; set; } 
 
+        public bool IsActive { get; set; }
+        public string Name { get; set; }
     }
 }

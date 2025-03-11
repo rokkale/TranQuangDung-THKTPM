@@ -1,0 +1,26 @@
+D:\KTPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\KTPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\KTPM\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll
+D:\KTPM\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.deps.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.AssemblyReference.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfoInputs.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.AssemblyInfo.cs
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.csproj.CoreCompileInputs.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.sourcelink.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\refint\ASC.Utilities.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ASC.Utilities.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.Utilities\obj\Debug\net8.0\ref\ASC.Utilities.dll

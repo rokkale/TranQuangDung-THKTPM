@@ -1,0 +1,1112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_securelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_masterlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\dashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\appsettings.production||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.production||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\iidentityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.utilities\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.utilities\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\controllers\\anonymouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\controllers\\anonymouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1D3101-62EC-41F8-8334-F9F7F9B60BF8}|ASC.Tests\\ASC.Tests.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1D3101-62EC-41F8-8334-F9F7F9B60BF8}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.utilities\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\sessionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\objectextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1D3101-62EC-41F8-8334-F9F7F9B60BF8}|ASC.Tests\\ASC.Tests.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.tests\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1D3101-62EC-41F8-8334-F9F7F9B60BF8}|ASC.Tests\\ASC.Tests.csproj|solutionrelative:asc.tests\\fakesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\asc.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\asc.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57AE2875-511F-4D52-859C-6FD3D5F26E60}|ASC.Utilities\\ASC.Utilities.csproj|solutionrelative:asc.utilities\\asc.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\20250302070241_addbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302070241_addbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\20250302050106_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302050106_addproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\20250302043750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302043750_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\20250302050106_addproducttable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302050106_addproducttable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\data\\migrations\\20250302070241_addbooktable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\data\\migrations\\20250302070241_addbooktable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5DB4D6-CCD8-45C0-BBE4-34E43F388CA1}|ASC.DataAccess\\ASC.DataAccess.csproj|solutionrelative:asc.dataaccess\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatavalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\models\\masterdatakey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\basetypes\\iaudettracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\iaudettracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F71AB6C-C743-4BEC-8A1C-5FB5B15BC183}|ASC.Model\\ASC.Model.csproj|solutionrelative:asc.model\\basetypes\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D217971A-470F-4F92-9FF5-CABB98B5C76C}|ASC.Business\\ASC.Business.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.business\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D217971A-470F-4F92-9FF5-CABB98B5C76C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\asc.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D217971A-470F-4F92-9FF5-CABB98B5C76C}|ASC.Business\\ASC.Business.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D217971A-470F-4F92-9FF5-CABB98B5C76C}|ASC.Business\\ASC.Business.csproj|solutionrelative:asc.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\images\\background1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\images\\background1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\css\\materialize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\materialize.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\images\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\images\\logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\wwwroot\\css\\materialize.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\wwwroot\\css\\materialize.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\authmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\ismssender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|d:\\h\u1ECDc t\u1EADp\\ki\u1EBFn tr\u00FAc\\asc.solution.na\\asc.solution\\asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7317F63-DCE1-461C-8E57-2E0A9D3264E8}|ASC.Web\\ASC.Web.csproj|solutionrelative:asc.web\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Dashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T03:09:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SecureLayout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_SecureLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T03:08:29.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T02:03:18.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T06:17:55.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.json",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T04:09:21.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T16:28:36.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MasterLayout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\_MasterLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T02:50:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T13:34:57.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentitySeed.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\IdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IdentitySeed.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:28:11.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Production",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Production",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.Production",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Production",
+              "RelativeToolTip": "ASC.Web\\appsettings.Production",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-02T06:02:54.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Program.cs",
+              "RelativeToolTip": "ASC.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:00:29.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:09:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:44:03.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IIdentitySeed.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\IIdentitySeed.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\IIdentitySeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:28:30.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T12:43:29.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\CurrentUser.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\CurrentUser.cs",
+              "RelativeToolTip": "ASC.Utilities\\CurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:07:30.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "ASC.Utilities\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:07:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "init.js",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\js\\init.js",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\js\\init.js",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\js\\init.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T13:06:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:04:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "ASC.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T13:04:26.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T02:51:18.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwG4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T02:51:57.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:34:30.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:33:11.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnonymousController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\AnonymousController.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Controllers\\AnonymousController.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Controllers\\AnonymousController.cs",
+              "RelativeToolTip": "ASC.Web\\Controllers\\AnonymousController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:34:01.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ASC.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ASC.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-11T12:32:13.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "ASC.Tests\\HomeControllerTests.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "ASC.Tests\\HomeControllerTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T01:50:17.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionExtension.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\SessionExtension.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\SessionExtension.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\SessionExtension.cs",
+              "RelativeToolTip": "ASC.Utilities\\SessionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:24:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ObjectExtension.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ObjectExtension.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ObjectExtension.cs",
+              "RelativeToolTip": "ASC.Utilities\\ObjectExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:02:57.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FakeSession.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Tests\\FakeSession.cs",
+              "RelativeDocumentMoniker": "ASC.Tests\\FakeSession.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Tests\\FakeSession.cs",
+              "RelativeToolTip": "ASC.Tests\\FakeSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:00:28.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ASC.Web.csproj",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+              "RelativeDocumentMoniker": "ASC.Web\\ASC.Web.csproj",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
+              "RelativeToolTip": "ASC.Web\\ASC.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T03:29:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.Production.json",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Production.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T02:16:32.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ASC.Model.csproj",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeDocumentMoniker": "ASC.Model\\ASC.Model.csproj",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
+              "RelativeToolTip": "ASC.Model\\ASC.Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T06:44:25.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ASC.Utilities.csproj",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeDocumentMoniker": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+              "RelativeToolTip": "ASC.Utilities\\ASC.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T02:27:04.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "ASC.Web\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T01:59:40.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:26:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250302070241_AddBookTable.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:02:41.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250302050106_AddProductTable.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:01:06.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Product.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\Product.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:59:15.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\Book.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\Book.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:58:08.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:53:57.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:54:07.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250302043750_InitialCreate.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302043750_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302043750_InitialCreate.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302043750_InitialCreate.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302043750_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T04:37:52.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Repository.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Repository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Repository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:38:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:46:12.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250302050106_AddProductTable.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.Designer.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.Designer.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302050106_AddProductTable.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:39:17.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250302070241_AddBookTable.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.Designer.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.Designer.cs",
+              "RelativeToolTip": "ASC.Web\\Data\\Migrations\\20250302070241_AddBookTable.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:07:08.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T06:17:54.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:59:29.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ASC.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\appsettings.Development.json",
+              "RelativeToolTip": "ASC.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T06:04:16.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASC.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:53:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\UnitOfWork.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\UnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:48:58.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MasterDataKey.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\MasterDataKey.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:58:20.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "MasterDataValue.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\Models\\MasterDataValue.cs",
+              "RelativeToolTip": "ASC.Model\\Models\\MasterDataValue.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:59:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ASC.DataAccess\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:46:31.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IAudetTracker.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\IAudetTracker.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\IAudetTracker.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\IAudetTracker.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\IAudetTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:57:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\Constants.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\Constants.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:57:25.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "RelativeToolTip": "ASC.Model\\BaseTypes\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:57:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ASC.Business.csproj",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+              "RelativeDocumentMoniker": "ASC.Business\\ASC.Business.csproj",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
+              "RelativeToolTip": "ASC.Business\\ASC.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T03:42:32.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "ASC.Business\\Class1.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\Class1.cs",
+              "RelativeToolTip": "ASC.Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T03:37:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "background1.jpg",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\images\\background1.jpg",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\images\\background1.jpg",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\images\\background1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T03:07:18.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASC.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T03:07:57.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "materialize.css",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\materialize.css",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\materialize.css",
+              "ViewState": "AgIAAEcBAAAAAAAAAIBZwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T02:42:49.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "logo.png",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.png",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\images\\logo.png",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\images\\logo.png",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\images\\logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-03-02T02:55:40.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "materialize.min.css",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "RelativeDocumentMoniker": "ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "RelativeToolTip": "ASC.Web\\wwwroot\\css\\materialize.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-02T02:43:17.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AuthMessageSender.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\AuthMessageSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\AuthMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:20:52.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ISmsSender.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\ISmsSender.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\ISmsSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\ISmsSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:21:22.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "ASC.Web\\Services\\IEmailSender.cs",
+              "ToolTip": "D:\\H\u1ECDc T\u1EADp\\Ki\u1EBFn Tr\u00FAc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "ASC.Web\\Services\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T02:21:07.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

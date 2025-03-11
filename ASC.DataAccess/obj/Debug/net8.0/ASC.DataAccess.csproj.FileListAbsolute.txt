@@ -1,0 +1,36 @@
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+D:\KTPM\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll
+D:\KTPM\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.deps.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.DataAccess.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Model.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\bin\Debug\net8.0\ASC.Utilities.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.AssemblyReference.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfoInputs.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.AssemblyInfo.cs
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.csproj.CoreCompileInputs.cache
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.sourcelink.json
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.Data.47B3A96C.Up2Date
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\refint\ASC.DataAccess.dll
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ASC.DataAccess.pdb
+D:\Học Tập\Kiến Trúc\ASC.Solution.Na\ASC.Solution\ASC.DataAccess\obj\Debug\net8.0\ref\ASC.DataAccess.dll

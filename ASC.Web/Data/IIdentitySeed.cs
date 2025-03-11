@@ -6,6 +6,6 @@ namespace ASC.Web.Data
 {
     public interface IIdentitySeed
     {
-        Task Seed(UserManager<IdentityUser> UserManager, RoleManager<IdentityRole> roleManager, IOptions<ApplicationSettings>options);
+        Task Seed(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager, IOptions<ApplicationSettings> options);
     }
 }

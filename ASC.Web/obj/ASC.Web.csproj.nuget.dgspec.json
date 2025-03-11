@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Web\\ASC.Web.csproj": {}
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {}
   },
   "projects": {
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\ASC.Business.csproj": {
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\ASC.Business.csproj",
+        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
         "projectName": "ASC.Business",
-        "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\ASC.Business.csproj",
+        "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj",
         "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-        "outputPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\obj\\",
+        "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "projectName": "ASC.DataAccess",
-        "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj",
+        "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj",
         "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-        "outputPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\obj\\",
+        "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,11 +104,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -128,6 +128,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -148,14 +154,14 @@
         }
       }
     },
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj": {
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj",
+        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
         "projectName": "ASC.Model",
-        "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj",
+        "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj",
         "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-        "outputPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\obj\\",
+        "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,11 +202,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.10, )"
             }
           },
           "imports": [
@@ -223,14 +229,14 @@
         }
       }
     },
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj": {
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj",
-        "projectName": "ASC.Ultilites",
-        "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj",
+        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
+        "projectName": "ASC.Utilities",
+        "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj",
         "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-        "outputPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\obj\\",
+        "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -298,14 +304,14 @@
         }
       }
     },
-    "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Web\\ASC.Web.csproj": {
+    "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Web\\ASC.Web.csproj",
+        "projectUniqueName": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
         "projectName": "ASC.Web",
-        "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Web\\ASC.Web.csproj",
+        "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\ASC.Web.csproj",
         "packagesPath": "C:\\Users\\rokka\\.nuget\\packages\\",
-        "outputPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Web\\obj\\",
+        "outputPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -326,17 +332,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\ASC.Business.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Business\\ASC.Business.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Business\\ASC.Business.csproj"
               },
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.DataAccess\\ASC.DataAccess.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.DataAccess\\ASC.DataAccess.csproj"
               },
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Model\\ASC.Model.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Model\\ASC.Model.csproj"
               },
-              "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj": {
-                "projectPath": "D:\\Học Tập\\Kiến Trúc\\source\\ASC.Solutuon\\ASC.Solutuon\\ASC.Ultilites\\ASC.Ultilites.csproj"
+              "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj": {
+                "projectPath": "D:\\Học Tập\\Kiến Trúc\\ASC.Solution.Na\\ASC.Solution\\ASC.Utilities\\ASC.Utilities.csproj"
               }
             }
           }
@@ -359,27 +365,29 @@
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[8.0.12, )"
-            },
-            "Microsoft.AspNetCore.Session": {
-              "target": "Package",
-              "version": "[2.3.0, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.12, )"
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [

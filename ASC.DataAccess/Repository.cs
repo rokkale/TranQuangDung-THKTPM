@@ -1,36 +1,43 @@
-﻿using ASC.DataAccess.interfaces;
+﻿using ASC.DataAccess.Interfaces;
 using ASC.Model.BaseTypes;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ASC.DataAccess
 {
-    public class Repository<T> : IRepository<T> where T : BaseEnity, new()
+    public class Repository<T> : IRepository<T> where T : BaseEntity, new()
     {
         private DbContext dbContext;
-        public Repository(DbContext _dbContext)
+
+        public Repository(DbContext dbContext)
         {
-            this.dbContext = _dbContext;
+            this.dbContext = dbContext;
         }
 
         public async Task<T> AddAsync(T entity)
         {
-            var entityToInsert = entity as BaseEnity;
+            var entityToInsert = entity as BaseEntity;
             entityToInsert.CreatedDate = DateTime.UtcNow;
             entityToInsert.UpdatedDate = DateTime.UtcNow;
             var result = dbContext.Set<T>().AddAsync(entity).Result;
+            //await dbContext.Set<T>().AddAsync(entity).Result;
             return result as T;
         }
 
         public void Update(T entity)
         {
-            var entityToUpdate = entity as BaseEnity;
+            var entityToUpdate = entity as BaseEntity;
             entityToUpdate.UpdatedDate = DateTime.UtcNow;
             dbContext.Set<T>().Update(entity);
         }
 
         public void Delete(T entity)
         {
-            var entityToDelete = entity as BaseEnity;
+            var entityToDelete = entity as BaseEntity;
             entityToDelete.UpdatedDate = DateTime.UtcNow;
             entityToDelete.IsDeleted = true;
             dbContext.Set<T>().Remove(entity);
@@ -44,7 +51,7 @@ namespace ASC.DataAccess
 
         public async Task<IEnumerable<T>> FindAllByPartitionKeyAsync(string partitionKey)
         {
-            var result = dbContext.Set<T>().Where(t => t.PartitionKey == partitionKey).ToListAsync().Result;
+            var result = dbContext.Set<T>().Where(t => t.PatititonKey == partitionKey).ToListAsync().Result;
             return result as IEnumerable<T>;
         }
 
@@ -54,5 +61,4 @@ namespace ASC.DataAccess
             return result as IEnumerable<T>;
         }
     }
-
 }
